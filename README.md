@@ -28,6 +28,6 @@
 6. [jpackage - self-contained Java Applications](https://docs.oracle.com/en/java/javase/17/docs/specs/man/jpackage.html)
 
 ### Other references
-1. [Telemetry / cloud-nuke](https://github.com/gruntwork-io/cloud-nuke)
+1. [cloud-nuke](https://github.com/gruntwork-io/cloud-nuke)
 2. [aws-nuke](https://github.com/rebuy-de/aws-nuke)
 3. [Baeldung guide - JPackage - Java 14](https://www.baeldung.com/java14-jpackage)
